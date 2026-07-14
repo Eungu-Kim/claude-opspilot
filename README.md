@@ -85,6 +85,6 @@ node scripts/smoke.mjs   # MCP 클라이언트 스모크 테스트
 
 ## 향후
 
-- 격리(회사계정 무관) 완성: Phase 5 에서 Ollama(로컬) + 별도 호스트(Raycast) 로 이전,
+- 격리(계정 무관) 완성: Phase 5 에서 Ollama(로컬) + 별도 호스트(Raycast) 로 이전,
   Claude Desktop config 에서 OpsPilot 제거.
 - Personal Memory 확장: 메일도 memory_fts 인덱싱(ref_kind='mail'), 임베딩 기반 의미검색.
